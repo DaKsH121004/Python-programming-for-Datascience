@@ -1,0 +1,6 @@
+Why Do We Need Generators?
+Memory Efficient : Handle large or infinite data without loading everything into memory.
+No List Overhead : Yield items one by one, avoiding full list creation.
+Lazy Evaluation : Compute values only when needed, improving performance.
+Support Infinite Sequences : Ideal for generating unbounded data like Fibonacci series.
+Pipeline Processing : Chain generators to process data in stages efficiently.
